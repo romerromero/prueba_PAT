@@ -7,4 +7,10 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'pruebas';
+
+  enviarMensaje(){
+    //TODO aqui me falta hacer esta funcion
+  }
+
 }
+
